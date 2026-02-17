@@ -229,7 +229,7 @@
 
 .about {
   display: grid;
-  grid-template-columns: 334px 718px;
+  grid-template-columns: 334px 700px;
   align-items: flex-start;
   gap: 25px;
   margin: 120px 0 180px;
