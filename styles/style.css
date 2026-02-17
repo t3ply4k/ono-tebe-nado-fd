@@ -128,8 +128,6 @@
 .bet-button {
   background: transparent;
   border: 1px solid #ffffff;
-  font-family: inherit;
-  font-size: inherit;
   cursor: pointer;
   font-family: Raleway;
   font-weight: 500;
@@ -296,10 +294,6 @@
 .footer__address span {
   color: #000;
   text-decoration: underline;
-}
-
-.no-underline {
-  text-decoration: none;
 }
 
 .footer__address span {
