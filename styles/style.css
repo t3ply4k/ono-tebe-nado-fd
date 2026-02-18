@@ -137,13 +137,11 @@
   line-height: 28px;
   text-transform: uppercase;
   word-spacing: 18.5px;
-  margin-left: 1px;
-  margin-top: 1px;
 }
 
 .bet-button {
   border: 1px solid currentColor;
-  padding: 12px 32px 11px 31px;
+  padding: 10px 32px 10px 31px;
   color: #fff;
   font-family: 'Raleway', 'Helvetica', 'Arial', sans-serif;
   font-weight: 500;
